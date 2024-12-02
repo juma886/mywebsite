@@ -1,0 +1,159 @@
+
+.title{
+    font-size: 15px;
+    color:rgb(71, 68, 68);
+    width: 100%;
+    margin: 10px;
+}
+
+a{  margin-bottom: -200px;
+    color: rgb(5, 95, 50);
+    font-size: 30px;
+    font-family: "Rubik", sans-serif;
+    font-style: normal;  
+    font-weight: 700px;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    border-radius: 100px;
+    
+}
+.home{
+    display: flex;
+    align-items: center;
+    background-color: aliceblue;
+    width: 100%;
+    height:200px;
+    margin: 0px 0px 10px 0px;
+    padding-left:20%;
+    
+ 
+}
+.section{
+    width:300px ;
+    height: 300px;
+}
+.section.middle{
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    width:600px ;
+    height: 300px;
+}
+.cover{
+ background-image: url(rename.png);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: 50% 50%;
+}
+.coverage{
+    background-image: url(2.gif);
+    background-position: contain;
+    background-repeat: no-repeat;
+    background-size: 100% 83%;
+
+}
+.backage{
+    margin-top: 7%;
+    background-image: url(1.gif);
+    background-position: contain;
+    background-repeat: no-repeat;
+    background-size: 80% 70%;
+
+}
+.ass{
+  display: inline-block;
+   margin: 2px 0px 2px 65%;
+}
+
+.sub1{
+    background-color:white;
+    border: 2px rgb(70, 205, 250);
+    border-radius: 20px;
+    width:600px ;
+    height: 300px;
+    margin: 10px;
+    box-shadow: 0px 0px 10px rgb(97, 94, 94);
+
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:100px;
+    font-style: normal;  
+    text-align: center;
+    color:rgb(41, 34, 34);
+
+}
+.performance{ border-radius: 20px;
+    width:600px ;
+    height: 300px;
+    overflow: hidden;
+}
+.sub1.class1{
+    background-color:white;
+    border: 2px rgb(70, 205, 250);
+    border-radius: 20px;
+    width:600px ;
+    height: 200px;
+    margin: 10px;
+    box-shadow: 0px 0px 10px rgb(97, 94, 94);
+
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:100px;
+    font-style: normal;  
+    text-align: center;
+    color:rgb(41, 34, 34);
+
+}
+
+.text1{
+    margin: 10px 50px 10px 10px;
+    display:flex;
+    flex-direction: row;
+  
+    
+}
+.suba{
+    font-size: 15px;
+    background-color:white;
+    border: 2px rgb(70, 205, 250);
+    border-radius: 20px;
+    width:45% ;
+    height: 800px;
+    margin: 10px 50px;
+    box-shadow: 0px 0px 20px rgb(70, 67, 67);
+ 
+}
+.subb{
+
+    border: 2px rgb(70, 205, 250);
+    border-radius: 20px;
+    width:40%;
+    height: 800px;
+    margin:0px 0px 2px 0px;
+    
+ 
+}
+h1{
+ 
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:500px;
+    font-style: normal;  
+    text-align: center;
+    font-weight: 500px;
+    color:rgb(41, 34, 34);
+   
+}
+h4{
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;  
+    text-align: justify;
+    font-weight: 100px;
+    color:rgb(97, 95, 95);
+    padding: 30px;
+    text-justify: auto;
+}
+
+
